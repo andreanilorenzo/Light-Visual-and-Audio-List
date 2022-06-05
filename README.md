@@ -1,4 +1,4 @@
-# Light Visual and Audio List (Software or Hardware)
+# Light, Visual and Audio List (Software or Hardware)
 Hi, I'm Lorenzo Andreani (L30). This is my list containing references for Lights, Video and Audio (Software or Hardware) that i have used or tested in live events or installations.
 
 
