@@ -16,9 +16,10 @@ List containing references for Lights, Video and Audio used by me during live ev
 | Name                      | Description                                 |               | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
 | VLC                       | Simple, fast and powerful media player.     | Open Source   | https://www.videolan.org/ | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/VLC_icon.png" alt="img" height="50"/> |
+| Resolume Arena            | VJ Software and more.                       | Commercial    | https://resolume.com/     | <img src="https://resolume.com/gfx/arena7icon.svg" alt="img" height="50"/> |
 
 
-## Audio Software
+## Audio Software  
 
 - Jingle Palette      https://www.jinglepalette.com/
 - Mixxx               A free, open source DJ software.
