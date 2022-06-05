@@ -36,6 +36,7 @@ List containing references for Lights, Video and Audio i have used or tested in 
 | Reaper                    | Digital audio workstation with timecode genertor. | Commercial    | https://www.reaper.fm/                | <img src="https://upload.wikimedia.org/wikipedia/it/c/cf/REAPER_logo.png" alt="img" width="auto" height="50px"/> |
 | Artnet Audioplayer        | Play audio and send Art-Net timecode.             |  Open Source  | https://artnetaudioplayer.github.io/  |   |
 | Audacity                  | Multi-track audio editor and recorder             |  Open Source  | https://www.audacityteam.org/         | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/800px-Audacity_Logo.svg.png" alt="img" width="auto" height="50px"/> |
+| Ardour                    | The digital audio workstation                     |  Open Source  | https://ardour.org/                   | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Breezeicons-apps-48-ardour.svg" alt="img" width="auto" height="50px"/> |
 
 
 ## CUE Show Software
