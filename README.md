@@ -9,6 +9,7 @@ List containing references for Lights, Video and Audio used by me during live ev
 | Daslight                  |                                     | Commercial    | https://www.daslight.com/ | <img src="https://www.daslight.com/logo_daslight.png" alt="img" height="50"/> |
 | QLC+                      |                                     | Open Source   | https://www.qlcplus.org/  | <img src="https://www.thedmxwiki.com/_media/dmx_control_software/qlcplus_icon.png" alt="img" height="50"/> |
 | xLights                   |                                     | Open Source   | https://xlights.org/      | <img src="https://xlights.org/wp-content/uploads/2017/03/XLNC_Main_Page.jpg" alt="img" height="50"/> |
+| Jinx!                     | Led Matrix Control                  | Free          | http://www.live-leds.de/  |   |
 
 
 ## Video Software
