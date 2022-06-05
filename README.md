@@ -3,7 +3,7 @@ List containing references for Lights, Video and Audio used by me during live ev
 
 
 ## Lighting Software
-| Name                      | Description                         |               |                           |
+| Name                      | Description                         |               |  Link                     |
 | ------------------------- | ----------------------------------- | ------------- | ------------------------- |
 | Avolites Titan            |                                     | Commercial    |                           |
 | Daslight                  |                                     | Commercial    | https://www.daslight.com/ |
@@ -12,9 +12,9 @@ List containing references for Lights, Video and Audio used by me during live ev
 
 
 ## Video Software
-| Name                      | Description                                 |               |                           |
+| Name                      | Description                                 |               | Link                      |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- |
-| VLC                       | Simple, fast and powerful media player.     | Open Source   |                           |
+| VLC                       | Simple, fast and powerful media player.     | Open Source   | https://www.videolan.org/ |
 
 
 ## Audio Software
