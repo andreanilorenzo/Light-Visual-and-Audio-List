@@ -70,7 +70,7 @@ Hi, I'm Lorenzo Andreani (L30). This is my list containing references for Lights
 | HandBrake                 | Open source video transcoder                | Open Source   | https://handbrake.fr/                                               | <img src="https://handbrake.fr/img/logo.png" alt="img" width="auto" height="50px"/> |
 
 
-## Tools
+## Misc Tools
 | Name                      | Description                                 | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
 | MIDIMonster               | Universal control and translation tool for most show control protocols in the entertainment industry. | Open Source | https://midimonster.net/                              | <img src="https://kb.midimonster.net/_static/MIDIMonster.svg" alt="img" width="auto" height="50px"/> |
@@ -81,4 +81,5 @@ Hi, I'm Lorenzo Andreani (L30). This is my list containing references for Lights
 | Show Manager              | Java ArtNet and LTC timecode generator.                                                               | Open Source | https://github.com/MrExplode/ShowManager              |  |
 | The Freesound Project     | Database online with sounds of various kinds.                                                         | Web         | https://freesound.org/                                |  |
 | Visual Analyser Project   | Spectrum analyzer and oscilloscope.                                                                   | Free        | https://www.sillanumsoft.org/                         |  |
+| Snaz                      | Snaz serves as an extension to stream software like OBS, FFSplit, Xsplit or any other software that is capable of importing/reading text from text files. | Free        | https://github.com/JimmyAppelt/Snaz |   |
 
