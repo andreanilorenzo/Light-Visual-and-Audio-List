@@ -33,3 +33,7 @@ List containing references for Lights, Video and Audio used by me during live ev
 
 
 
+| Function name | Description                    |
+| ------------- | ------------------------------ |
+| `help()`      | Display the help window.       |
+| `destroy()`   | **Destroy your computer!**     |
