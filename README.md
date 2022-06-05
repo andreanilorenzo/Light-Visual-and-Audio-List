@@ -12,7 +12,7 @@ Hi, I'm Lorenzo Andreani (L30). This is my list containing references for Lights
 | xLights                   |                                                                 | Open Source   | https://xlights.org/                  | <img src="https://xlights.org/wp-content/uploads/2017/03/XLNC_Main_Page.jpg" alt="img" width="auto" height="50px"/> |
 | Jinx!                     | Led Matrix Control                                              | Free          | http://www.live-leds.de/              |   |
 | rpidmx512 (OrangePi)      | Orange Pi DMX512 MIDI OSC Art-Net WS28xx....                    | Open Source   | https://www.orangepi-dmx.org/         |   |              
-| WLed                      | Implementation of an ESP8266/ESP32 webserver to control NeoPixel| Open Source   | https://kno.wled.ge/                  | <img src="https://kno.wled.ge/assets/images/ui/headers/wled_logo_akemi.png" alt="img" width="auto" height="50px"/> |
+| WLED                      | Implementation of an ESP8266/ESP32 webserver to control NeoPixel| Open Source   | https://kno.wled.ge/                  | <img src="https://kno.wled.ge/assets/images/ui/headers/wled_logo_akemi.png" alt="img" width="auto" height="50px"/> |
 
 ## Video Software
 | Name                      | Description                                 | Type          | Link                      |   |
