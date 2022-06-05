@@ -16,11 +16,11 @@ List containing references for Lights, Video and Audio i have used or tested in 
 ## Video Software
 | Name                      | Description                                 | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
-| VLC                       | Simple, fast and powerful media player.     | Open Source   | https://www.videolan.org/ | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/VLC_icon.png" alt="img" height="50"/> |
-| Resolume Arena            | VJ Software and more.                       | Commercial    | https://resolume.com/     | <img src="https://resolume.com/gfx/arena7icon.svg" alt="img" height="50"/> |
-| vMix                      | Live video production software.             | Commercial    | https://www.vmix.com/     | <img src="https://www.vmix.com/images/2017/main/vmix-logo.png" alt="img" height="50"/> |
-| OBS Studio                | Live streaming and screen recording.        | Open Source   | https://obs-studio.co/    | <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png" alt="img" height="50"/> |
-
+| VLC                       | Simple, fast and powerful media player.                       | Open Source   | https://www.videolan.org/ | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/VLC_icon.png" alt="img" height="50"/> |
+| Resolume Arena            | VJ Software and more.                                         | Commercial    | https://resolume.com/     | <img src="https://resolume.com/gfx/arena7icon.svg" alt="img" height="50"/> |
+| vMix                      | Live video production software.                               | Commercial    | https://www.vmix.com/     | <img src="https://www.vmix.com/images/2017/main/vmix-logo.png" alt="img" height="50"/> |
+| OBS Studio                | Live streaming and screen recording.                          | Open Source   | https://obs-studio.co/    | <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png" alt="img" height="50"/> |
+| JRiver Media Center       | Media player software with multizone and remote control app.  | Commercial    | https://jriver.com/       | <img src="https://jriver.com/images/header/logo.png" alt="img" height="50"/> |
 
 ## Video Hardware
 | Name                      | Description                                 | Type          | Link                      |   |
