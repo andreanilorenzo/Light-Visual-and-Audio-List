@@ -17,15 +17,15 @@ Hi, I'm Lorenzo Andreani (L30). This is my list containing references for Lights
 ## Video Software
 | Name                      | Description                                 | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
-| VLC                       | Simple, fast and powerful media player.                       | Open Source   | https://www.videolan.org/      | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/VLC_icon.png" alt="img" width="auto" height="50px"/> |
-| Resolume Arena            | VJ Software and more.                                         | Commercial    | https://resolume.com/          | <img src="https://resolume.com/gfx/arena7icon.svg" alt="img" width="auto" height="50px"/> |
-| MapMap                    | Open source video mapping software.                           | Open Source   | https://mapmapteam.github.io/  | <img src="https://avatars.githubusercontent.com/u/5913666?s=200&v=4" alt="img" width="auto" height="50px"/> |
+| VLC                       | Simple, fast and powerful media player.                       | Open Source   | https://www.videolan.org/                   | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/VLC_icon.png" alt="img" width="auto" height="50px"/> |
+| Resolume Arena            | VJ Software and more.                                         | Commercial    | https://resolume.com/                       | <img src="https://resolume.com/gfx/arena7icon.svg" alt="img" width="auto" height="50px"/> |
+| MapMap                    | Open source video mapping software.                           | Open Source   | https://mapmapteam.github.io/               | <img src="https://avatars.githubusercontent.com/u/5913666?s=200&v=4" alt="img" width="auto" height="50px"/> |
 | VPT8                      | Video Projection Tool (VPT) is a free multipurpose realtime projection software tool.  | Open Source   | https://hcgilje.wordpress.com/vpt/ |  <img src="https://hcgilje.files.wordpress.com/2018/05/vpt8_logo.png" alt="img" width="auto" height="50px"/> |
-| vMix                      | Live video production software.                               | Commercial    | https://www.vmix.com/          | <img src="https://www.vmix.com/images/2017/main/vmix-logo.png" alt="img" width="auto" height="50px"/> |
-| OBS Studio                | Live streaming and screen recording.                          | Open Source   | https://obs-studio.co/         | <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png" alt="img" width="auto" height="50px"/> |
-| JRiver Media Center       | Media player software with multizone and remote control app.  | Commercial    | https://jriver.com/            | <img src="https://jriver.com/images/header/logo.png" alt="img" width="auto" height="50px"/> |
-| Mp4Museum                 | A raspberry-based, open source media player.                  | Open Source   | https://mp4museum.org/         |   |
-
+| vMix                      | Live video production software.                               | Commercial    | https://www.vmix.com/                       | <img src="https://www.vmix.com/images/2017/main/vmix-logo.png" alt="img" width="auto" height="50px"/> |
+| OBS Studio                | Live streaming and screen recording.                          | Open Source   | https://obs-studio.co/                      | <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png" alt="img" width="auto" height="50px"/> |
+| JRiver Media Center       | Media player software with multizone and remote control app.  | Commercial    | https://jriver.com/                         | <img src="https://jriver.com/images/header/logo.png" alt="img" width="auto" height="50px"/> |
+| Mp4Museum                 | A raspberry-based, open source media player.                  | Open Source   | https://mp4museum.org/                      |   |
+| PocketVJ                  | A raspberry-based multimedia player.                          | Open Source   | https://github.com/magdesign/PocketVJ-CP-v3 | <img src="https://www.pocketvj.com/assets/img/PocketVJ_Videoplayer_art_museum_loop_installation_multichannel_gallery.jpg" alt="img" width="auto" height="50px"/> |
 
 ## Video Hardware
 | Name                      | Description                                 | Type          | Link                      |   |
