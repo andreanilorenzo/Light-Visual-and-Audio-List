@@ -27,16 +27,17 @@ List containing references for Lights, Video and Audio i have used or tested in 
 
 
 ## Audio Software  
-| Name                      | Description                                 | Type          | Link                      |   |
-| ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
-| Jingle Palette            | Instant jingle player.                      | Free          | https://www.jinglepalette.com/ | <img src="https://i.ytimg.com/vi/iDnW3E4G3dg/sddefault.jpg" alt="img" height="50"/> |
-| Mixxx                     | A free, open source DJ software.            | Open Source   | https://mixxx.org/             | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Mixxx-logo.svg" alt="img" height="50"/> |
-| Reaper                    | Digital audio workstation                   | Commercial    | https://www.reaper.fm/         | <img src="https://upload.wikimedia.org/wikipedia/it/c/cf/REAPER_logo.png" alt="img" height="50"/> |
+| Name                      | Description                                      | Type          | Link                      |   |
+| ------------------------- | ------------------------------------------------ | ------------- | ------------------------- | - |
+| Jingle Palette            | Instant jingle player.                           | Free          | https://www.jinglepalette.com/ | <img src="https://i.ytimg.com/vi/iDnW3E4G3dg/sddefault.jpg" alt="img" height="50"/> |
+| Mixxx                     | A free, open source DJ software.                 | Open Source   | https://mixxx.org/             | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Mixxx-logo.svg" alt="img" height="50"/> |
+| Reaper                    | Digital audio workstation with timecode genertor | Commercial    | https://www.reaper.fm/         | <img src="https://upload.wikimedia.org/wikipedia/it/c/cf/REAPER_logo.png" alt="img" height="50"/> |
 
 ## CUE Show Software
-
-- QLab
-- MultiPlay       https://www.da-share.com/software/multiplay/
+| Name                      | Description                                      | Type          | Link                      |   |
+| ------------------------- | ------------------------------------------------ | ------------- | ------------------------- | - |
+| QLab                      | Designing and playing back sound, video, light, and show control cues. | Commercial | https://qlab.app/                            | <img src="https://qlab.app/static/qlab-4-icon-e90056ea671b2707ce8a4ba76afc1b3b.png" alt="img" height="50"/> |
+| MultiPlay                 | Play cues for theatre or corporate use                                 | Free       | https://www.da-share.com/software/multiplay/ |   |
 - MIDIMonster     Lightweight adapter tool for common show control protocols.
 - rtpMIDI         Network MIDI driver       https://www.tobias-erichsen.de/software/rtpmidi.html
 
