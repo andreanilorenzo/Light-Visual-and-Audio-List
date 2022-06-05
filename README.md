@@ -25,7 +25,7 @@ Hi, I'm Lorenzo Andreani (L30). This is my list containing references for Lights
 | OBS Studio                | Live streaming and screen recording.                          | Open Source   | https://obs-studio.co/                      | <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png" alt="img" width="auto" height="50px"/> |
 | JRiver Media Center       | Media player software with multizone and remote control app.  | Commercial    | https://jriver.com/                         | <img src="https://jriver.com/images/header/logo.png" alt="img" width="auto" height="50px"/> |
 | Mp4Museum                 | A raspberry-based, open source media player.                  | Open Source   | https://mp4museum.org/                      |   |
-| PocketVJ                  | A raspberry-based multimedia player.                          | Open Source   | https://github.com/magdesign/PocketVJ-CP-v3 | <img src="https://www.pocketvj.com/assets/img/PocketVJ_Videoplayer_art_museum_loop_installation_multichannel_gallery.jpg" alt="img" width="auto" height="50px"/> |
+| PocketVJ                  | A raspberry-based multimedia player.                          | Open Source   | https://github.com/magdesign/PocketVJ-CP-v3 | <img src="https://raw.githubusercontent.com/magdesign/PocketVJ-CP-v3/f4ef376e1b5e587abf03a7478ffcbcf927175a15/docs/PVJ_2019.svg" alt="img" width="auto" height="50px"/> |
 
 ## Video Hardware
 | Name                      | Description                                 | Type          | Link                      |   |
