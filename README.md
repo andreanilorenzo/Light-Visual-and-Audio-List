@@ -54,8 +54,7 @@ List containing references for Lights, Video and Audio i have used or tested in 
 | Name                      | Description                                 | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
 | GIMP                      | Cross-platform image editor                 | Open Source   | https://www.gimp.org/     | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1024px-The_GIMP_icon_-_gnome.svg.png" alt="img" height="50"/> |
-
-
+| Inkscape                  | Professional vector graphics editor         | Open Source   | https://inkscape.org/     | <img src="https://media.inkscape.org/media/resources/file/inkscape-flat-logo-2color-text.svg" alt="img" height="50"/> |
 ## Tools
 | Name                      | Description                                 | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
