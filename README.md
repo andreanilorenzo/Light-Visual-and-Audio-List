@@ -16,11 +16,12 @@ List containing references for Lights, Video and Audio i have used or tested in 
 ## Video Software
 | Name                      | Description                                 | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
-| VLC                       | Simple, fast and powerful media player.                       | Open Source   | https://www.videolan.org/ | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/VLC_icon.png" alt="img" width="auto" height="50px"/> |
-| Resolume Arena            | VJ Software and more.                                         | Commercial    | https://resolume.com/     | <img src="https://resolume.com/gfx/arena7icon.svg" alt="img" width="auto" height="50px"/> |
-| vMix                      | Live video production software.                               | Commercial    | https://www.vmix.com/     | <img src="https://www.vmix.com/images/2017/main/vmix-logo.png" alt="img" width="auto" height="50px"/> |
-| OBS Studio                | Live streaming and screen recording.                          | Open Source   | https://obs-studio.co/    | <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png" alt="img" width="auto" height="50px"/> |
-| JRiver Media Center       | Media player software with multizone and remote control app.  | Commercial    | https://jriver.com/       | <img src="https://jriver.com/images/header/logo.png" alt="img" width="auto" height="50px"/> |
+| VLC                       | Simple, fast and powerful media player.                       | Open Source   | https://www.videolan.org/      | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/VLC_icon.png" alt="img" width="auto" height="50px"/> |
+| Resolume Arena            | VJ Software and more.                                         | Commercial    | https://resolume.com/          | <img src="https://resolume.com/gfx/arena7icon.svg" alt="img" width="auto" height="50px"/> |
+| MapMap                    | Open source video mapping software.                           | Open Source   | https://mapmapteam.github.io/  | <img src="https://avatars.githubusercontent.com/u/5913666?s=200&v=4" alt="img" width="auto" height="50px"/> |
+| vMix                      | Live video production software.                               | Commercial    | https://www.vmix.com/          | <img src="https://www.vmix.com/images/2017/main/vmix-logo.png" alt="img" width="auto" height="50px"/> |
+| OBS Studio                | Live streaming and screen recording.                          | Open Source   | https://obs-studio.co/         | <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png" alt="img" width="auto" height="50px"/> |
+| JRiver Media Center       | Media player software with multizone and remote control app.  | Commercial    | https://jriver.com/            | <img src="https://jriver.com/images/header/logo.png" alt="img" width="auto" height="50px"/> |
 
 ## Video Hardware
 | Name                      | Description                                 | Type          | Link                      |   |
