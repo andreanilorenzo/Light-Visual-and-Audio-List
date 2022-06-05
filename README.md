@@ -30,6 +30,7 @@ List containing references for Lights, Video and Audio used by me during live ev
 - QLab
 - MultiPlay       https://www.da-share.com/software/multiplay/
 - MIDIMonster     Lightweight adapter tool for common show control protocols.
+- rtpMIDI         Network MIDI driver       https://www.tobias-erichsen.de/software/rtpmidi.html
 
 ## Broadcasting
 
