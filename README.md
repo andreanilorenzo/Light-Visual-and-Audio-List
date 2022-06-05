@@ -50,6 +50,6 @@ List containing references for Lights, Video and Audio i have used or tested in 
 ## Tools
 | Name                      | Description                                 | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
-| MIDIMonster               | Lightweight adapter tool for common show control protocols.                                         | Open Source   |   ||
-| rtpMIDI                   | Network MIDI driver.                                                                                | Open Source   | https://www.tobias-erichsen.de/software/rtpmidi.html ||
-| MediaInfo                 | A convenient unified display of the most relevant technical and tag data for video and audio files. | Open Source   | ||
+| MIDIMonster               | Universal control and translation tool for most show control protocols in the entertainment industry. | Open Source   | https://midimonster.net/                             | <img src="https://kb.midimonster.net/_static/MIDIMonster.svg" alt="img" height="50"/> |
+| rtpMIDI                   | Network MIDI driver.                                                                                  | Open Source   | https://www.tobias-erichsen.de/software/rtpmidi.html ||
+| MediaInfo                 | A convenient unified display of the most relevant technical and tag data for video and audio files.   | Open Source   | ||
