@@ -35,6 +35,7 @@ List containing references for Lights, Video and Audio i have used or tested in 
 | Mixxx                     | A free, open source DJ software.                  | Open Source   | https://mixxx.org/                    | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Mixxx-logo.svg" alt="img" width="auto" height="50px"/> |
 | Reaper                    | Digital audio workstation with timecode genertor. | Commercial    | https://www.reaper.fm/                | <img src="https://upload.wikimedia.org/wikipedia/it/c/cf/REAPER_logo.png" alt="img" width="auto" height="50px"/> |
 | Artnet Audioplayer        | Play audio and send Art-Net timecode.             |  Open Source  | https://artnetaudioplayer.github.io/  |   |
+| Audacity                  | Multi-track audio editor and recorder             |  Open Source  | https://www.audacityteam.org/         | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/800px-Audacity_Logo.svg.png" alt="img" width="auto" height="50px"/> |
 
 
 ## CUE Show Software
