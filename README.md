@@ -31,9 +31,8 @@ List containing references for Lights, Video and Audio used by me during live ev
 
 - MediaInfo           A convenient unified display of the most relevant technical and tag data for video and audio files.
 
-
-
 | Function name | Description                    |
 | ------------- | ------------------------------ |
-| `help()`      | Display the help window.       |
-| `destroy()`   | **Destroy your computer!**     |
+| 22            | Display the help window.       |
+| 333v          | **Destroy your computer!**     |
+
