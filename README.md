@@ -18,7 +18,10 @@ List containing references for Lights, Video and Audio used by me during live ev
 - QLab
 - MultiPlay       https://www.da-share.com/software/multiplay/
 - MIDIMonster - Lightweight adapter tool for common show control protocols.
-- 
+
+
+
+- MediaInfo - A convenient unified display of the most relevant technical and tag data for video and audio files.
 
 
 
