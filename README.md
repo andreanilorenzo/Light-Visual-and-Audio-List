@@ -7,6 +7,12 @@ List containing references for Lights, Video and Audio used by me during live ev
 - QLC+            https://www.qlcplus.org/
 - xLights         https://xlights.org/
 
+## Video Software
+
+- Mixxx - A free, open source DJ software.
+- VLC - Simple, fast and powerful media player.
+- Tally Arbiter      http://tallyarbiter.com/
+
 ## CUE Show Software
 
 - QLab
