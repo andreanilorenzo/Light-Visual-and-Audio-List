@@ -23,6 +23,7 @@ List containing references for Lights, Video and Audio used by me during live ev
 
 - Jingle Palette      https://www.jinglepalette.com/
 - Mixxx               A free, open source DJ software.
+- Reaper              Digital audio workstation  https://www.reaper.fm/
 
 ## CUE Show Software
 
