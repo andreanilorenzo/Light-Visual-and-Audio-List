@@ -64,6 +64,7 @@ Hi, I'm Lorenzo Andreani (L30). This is my list containing references for Lights
 | GIMP                      | Cross-platform image editor                 | Open Source   | https://www.gimp.org/                                               | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1024px-The_GIMP_icon_-_gnome.svg.png" alt="img" width="auto" height="50px"/> |
 | Inkscape                  | Professional vector graphics editor         | Open Source   | https://inkscape.org/                                               | <img src="https://media.inkscape.org/media/resources/file/inkscape-flat-logo-2color-text.svg" alt="img" width="auto" height="50px"/> |
 | DaVinci Resolve           | Video editing                               | Free          | https://www.blackmagicdesign.com/it/products/davinciresolve/studio  | <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="img" width="auto" height="50px"/> |
+| HandBrake                 | Open source video transcoder                | Open Source   | https://handbrake.fr/                                               | <img src="https://handbrake.fr/img/logo.png" alt="img" width="auto" height="50px"/> |
 
 
 ## Tools
