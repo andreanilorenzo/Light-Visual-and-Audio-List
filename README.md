@@ -12,8 +12,10 @@ List containing references for Lights, Video and Audio used by me during live ev
 
 
 ## Video Software
+| Name                      | Description                                 |               |                           |
+| ------------------------- | ------------------------------------------- | ------------- | ------------------------- |
+| VLC                       | Simple, fast and powerful media player.     | Open Source   |                           |
 
-- VLC                 Simple, fast and powerful media player.
 
 ## Audio Software
 
