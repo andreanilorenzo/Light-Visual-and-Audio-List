@@ -1,11 +1,15 @@
 # Light Visual and Audio List (Software or Hardware)
 List containing references for Lights, Video and Audio used by me during live events
 
-## Lighting Software
 
-- Avolites Titan
-- QLC+            https://www.qlcplus.org/
-- xLights         https://xlights.org/
+## Lighting Software
+| Function name | Description                    ||
+| ------------- | ------------------------------ ||
+| Avolites Titan            |        | |
+| Daslight           |        | https://www.daslight.com/ |
+| QLC+          |     |  https://www.qlcplus.org/ |
+| xLights         |     |  https://xlights.org/ |
+
 
 ## Video Software
 
@@ -30,9 +34,3 @@ List containing references for Lights, Video and Audio used by me during live ev
 ## Other
 
 - MediaInfo           A convenient unified display of the most relevant technical and tag data for video and audio files.
-
-| Function name | Description                    |
-| ------------- | ------------------------------ |
-| 22            | Display the help window.       |
-| 333v          | **Destroy your computer!**     |
-
