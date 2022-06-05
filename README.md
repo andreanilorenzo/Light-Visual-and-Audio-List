@@ -4,8 +4,13 @@ List containing references for Lights, Video and Audio used by me during live ev
 ## Lighting Software
 
 - Avolites Titan
-- QLC+
+- QLC+            https://www.qlcplus.org/
 - xLights         https://xlights.org/
+
+## CUE Show Software
+
+- QLab
+- MultiPlay       https://www.da-share.com/software/multiplay/
 
 
 
