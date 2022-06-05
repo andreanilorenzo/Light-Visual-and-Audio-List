@@ -5,13 +5,13 @@ List containing references for Lights, Video and Audio i have used or tested in 
 ## Lighting Software
 | Name                      | Description                         | Type          |  Link                     |   |
 | ------------------------- | ----------------------------------- | ------------- | ------------------------- | - |
-| Avolites Titan            |                                     | Commercial    | https://www.avolites.com/products/ | <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Avolites_Logo.svg" alt="img" height="50"/> |
-| Daslight                  |                                     | Commercial    | https://www.daslight.com/          | <img src="https://www.daslight.com/logo_daslight.png" alt="img" height="50"/> |
-| QLC+                      |                                     | Open Source   | https://www.qlcplus.org/           | <img src="https://www.thedmxwiki.com/_media/dmx_control_software/qlcplus_icon.png" alt="img" height="50"/> |
-| FreeStyler                | Free lighting control software      | Free          | http://www.freestylerdmx.be/       |   |
-| xLights                   |                                     | Open Source   | https://xlights.org/               | <img src="https://xlights.org/wp-content/uploads/2017/03/XLNC_Main_Page.jpg" alt="img" height="50"/> |
-| Jinx!                     | Led Matrix Control                  | Free          | http://www.live-leds.de/           |   |
-
+| Avolites Titan            |                                              | Commercial    | https://www.avolites.com/products/    | <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Avolites_Logo.svg" alt="img" height="50"/> |
+| Daslight                  |                                              | Commercial    | https://www.daslight.com/             | <img src="https://www.daslight.com/logo_daslight.png" alt="img" height="50"/> |
+| QLC+                      |                                              | Open Source   | https://www.qlcplus.org/              | <img src="https://www.thedmxwiki.com/_media/dmx_control_software/qlcplus_icon.png" alt="img" height="50"/> |
+| FreeStyler                | Free lighting control software               | Free          | http://www.freestylerdmx.be/          |   |
+| xLights                   |                                              | Open Source   | https://xlights.org/                  | <img src="https://xlights.org/wp-content/uploads/2017/03/XLNC_Main_Page.jpg" alt="img" height="50"/> |
+| Jinx!                     | Led Matrix Control                           | Free          | http://www.live-leds.de/              |   |
+| rpidmx512 (OrangePi)      | Orange Pi DMX512 MIDI OSC Art-Net WS28xx.... | Open Source   | https://github.com/vanvught/rpidmx512 |   |              
 
 ## Video Software
 | Name                      | Description                                 | Type          | Link                      |   |
