@@ -19,6 +19,12 @@ List containing references for Lights, Video and Audio i have used or tested in 
 | Resolume Arena            | VJ Software and more.                       | Commercial    | https://resolume.com/     | <img src="https://resolume.com/gfx/arena7icon.svg" alt="img" height="50"/> |
 | vMix                      | Live video production software.             | Commercial    | https://www.vmix.com/     | <img src="https://www.vmix.com/images/2017/main/vmix-logo.png" alt="img" height="50"/> |
 
+## Video Hardware
+| Name                      | Description                                 |               | Link                      |   |
+| ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
+| ATEM Mini                 | BlackMagic Design switcher multicam HDMI.   |               | https://www.blackmagicdesign.com/it/products/atemmini | <img src="https://upload.wikimedia.org/wikipedia/en/b/b8/Blackmagic_Design_logo.svg" alt="img" height="50"/> |
+
+
 ## Audio Software  
 
 - Jingle Palette      https://www.jinglepalette.com/
