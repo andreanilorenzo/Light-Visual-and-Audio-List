@@ -14,7 +14,7 @@ List containing references for Lights, Video and Audio used by me during live ev
 ## Video Software
 | Name                      | Description                                 |               | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
-| VLC                       | Simple, fast and powerful media player.     | Open Source   | https://www.videolan.org/ | ![](https://upload.wikimedia.org/wikipedia/commons/3/38/VLC_icon.png) |
+| VLC                       | Simple, fast and powerful media player.     | Open Source   | https://www.videolan.org/ | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/VLC_icon.png" alt="img" width="200"/> |
 
 
 ## Audio Software
