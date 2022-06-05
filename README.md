@@ -5,14 +5,16 @@ Hi, I'm Lorenzo Andreani (L30). This is my list containing references for Lights
 ## Lighting Software
 | Name                      | Description                         | Type          |  Link                     |   |
 | ------------------------- | ----------------------------------- | ------------- | ------------------------- | - |
-| Avolites Titan            |                                                                 | Commercial    | https://www.avolites.com/products/    | <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Avolites_Logo.svg" alt="img" width="auto" height="50px"/> |
-| Daslight                  |                                                                 | Commercial    | https://www.daslight.com/             | <img src="https://www.daslight.com/logo_daslight.png" alt="img" width="auto" height="50px"/> |
-| QLC+                      |                                                                 | Open Source   | https://www.qlcplus.org/              | <img src="https://www.thedmxwiki.com/_media/dmx_control_software/qlcplus_icon.png" alt="img" width="auto" height="50px"/> |
-| FreeStyler                | Free lighting control software                                  | Free          | http://www.freestylerdmx.be/          |   |
-| xLights                   |                                                                 | Open Source   | https://xlights.org/                  | <img src="https://xlights.org/wp-content/uploads/2017/03/XLNC_Main_Page.jpg" alt="img" width="auto" height="50px"/> |
-| Jinx!                     | Led Matrix Control                                              | Free          | http://www.live-leds.de/              |   |
-| rpidmx512 (OrangePi)      | Orange Pi DMX512 MIDI OSC Art-Net WS28xx....                    | Open Source   | https://www.orangepi-dmx.org/         |   |              
-| WLED                      | Implementation of an ESP8266/ESP32 webserver to control NeoPixel| Open Source   | https://kno.wled.ge/                  | <img src="https://kno.wled.ge/assets/images/ui/headers/wled_logo_akemi.png" alt="img" width="auto" height="50px"/> |
+| Avolites Titan            |                                                                 | Commercial    | https://www.avolites.com/products/               | <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Avolites_Logo.svg" alt="img" width="auto" height="50px"/> |
+| Daslight                  |                                                                 | Commercial    | https://www.daslight.com/                        | <img src="https://www.daslight.com/logo_daslight.png" alt="img" width="auto" height="50px"/> |
+| QLC+                      |                                                                 | Open Source   | https://www.qlcplus.org/                         | <img src="https://www.thedmxwiki.com/_media/dmx_control_software/qlcplus_icon.png" alt="img" width="auto" height="50px"/> |
+| FreeStyler                | Free lighting control software                                  | Free          | http://www.freestylerdmx.be/                     |   |
+| xLights                   |                                                                 | Open Source   | https://xlights.org/                             | <img src="https://xlights.org/wp-content/uploads/2017/03/XLNC_Main_Page.jpg" alt="img" width="auto" height="50px"/> |
+| Jinx!                     | Led Matrix Control                                              | Free          | http://www.live-leds.de/                         |   |
+| rpidmx512 (OrangePi)      | Orange Pi DMX512 MIDI OSC Art-Net WS28xx....                    | Open Source   | https://www.orangepi-dmx.org/                    |   |              
+| WLED                      | Implementation of an ESP8266/ESP32 webserver to control NeoPixel| Open Source   | https://kno.wled.ge/                             | <img src="https://kno.wled.ge/assets/images/ui/headers/wled_logo_akemi.png" alt="img" width="auto" height="50px"/> |
+| Hyperion                  | Open source Bias or Ambient Lighting implementation.            | Open Source   | https://github.com/hyperion-project/hyperion.ng  | <img src="https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/doc/logo_light.png" alt="img" width="auto" height="50px"/> |
+
 
 ## Video Software
 | Name                      | Description                                 | Type          | Link                      |   |
