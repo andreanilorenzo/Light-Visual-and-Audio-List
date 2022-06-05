@@ -3,12 +3,12 @@ List containing references for Lights, Video and Audio used by me during live ev
 
 
 ## Lighting Software
-| Function name             | Description                    |                           |
-| ------------------------- | ------------------------------ | ------------------------- |
-| Avolites Titan            |                                |                           |
-| Daslight                  |                                | https://www.daslight.com/ |
-| QLC+                      |                                |  https://www.qlcplus.org/ |
-| xLights                   |                                |  https://xlights.org/     |
+| Name                      | Description                         | Link                      |
+| ------------------------- | ----------------------------------- | ------------------------- |
+| Avolites Titan            |                                     |                           |
+| Daslight                  |                                     | https://www.daslight.com/ |
+| QLC+                      |                                     | https://www.qlcplus.org/  |
+| xLights                   |                                     | https://xlights.org/      |
 
 
 ## Video Software
