@@ -13,6 +13,7 @@ Hi, I'm Lorenzo Andreani (L30). This is my list containing references for Lights
 | Jinx!                     | Led Matrix Control                           | Free          | http://www.live-leds.de/              |   |
 | rpidmx512 (OrangePi)      | Orange Pi DMX512 MIDI OSC Art-Net WS28xx.... | Open Source   | https://www.orangepi-dmx.org/         |   |              
 
+
 ## Video Software
 | Name                      | Description                                 | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
@@ -23,6 +24,8 @@ Hi, I'm Lorenzo Andreani (L30). This is my list containing references for Lights
 | vMix                      | Live video production software.                               | Commercial    | https://www.vmix.com/          | <img src="https://www.vmix.com/images/2017/main/vmix-logo.png" alt="img" width="auto" height="50px"/> |
 | OBS Studio                | Live streaming and screen recording.                          | Open Source   | https://obs-studio.co/         | <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png" alt="img" width="auto" height="50px"/> |
 | JRiver Media Center       | Media player software with multizone and remote control app.  | Commercial    | https://jriver.com/            | <img src="https://jriver.com/images/header/logo.png" alt="img" width="auto" height="50px"/> |
+| Mp4Museum                 | A raspberry-based, open source media player.                  | Open Source   | https://mp4museum.org/         |   |
+
 
 ## Video Hardware
 | Name                      | Description                                 | Type          | Link                      |   |
