@@ -49,6 +49,13 @@ List containing references for Lights, Video and Audio i have used or tested in 
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
 | Tally Arbiter             | The flexible and customizable camera tally light system  | Open Source   | http://tallyarbiter.com/   | <img src="https://josephdadams.github.io/TallyArbiter/img/logo.png" alt="img" height="50"/> |
 
+
+## Graphics
+| Name                      | Description                                 | Type          | Link                      |   |
+| ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
+| GIMP                      | Cross-platform image editor                 | Open Source   | https://www.gimp.org/     | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1024px-The_GIMP_icon_-_gnome.svg.png" alt="img" height="50"/> |
+
+
 ## Tools
 | Name                      | Description                                 | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
