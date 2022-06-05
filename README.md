@@ -71,3 +71,5 @@ List containing references for Lights, Video and Audio i have used or tested in 
 | TimeLord                  | Media Timecode player                                                                                 | Commercial  | https://timelord-mtc.com/                             | <img src="https://timelord-mtc.com/files/cache/ebe4e47969b629fd660cff58c57a14e3_f9.png" alt="img" width="auto" height="50px"/> |
 | Show Manager              | Java ArtNet and LTC timecode generator.                                                               | Open Source | https://github.com/MrExplode/ShowManager              |  |
 | The Freesound Project     | Database online with sounds of various kinds.                                                         | Web         | https://freesound.org/                                |  |
+| Visual Analyser Project   | Analizzatore di spettro e oscilloscopio                                                               | Open Source | https://www.sillanumsoft.org/                         |  |
+
