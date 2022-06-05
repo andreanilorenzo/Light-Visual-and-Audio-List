@@ -31,9 +31,9 @@ List containing references for Lights, Video and Audio i have used or tested in 
 ## Audio Software  
 | Name                      | Description                                      | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------------ | ------------- | ------------------------- | - |
-| Jingle Palette            | Instant jingle player.                           | Free          | https://www.jinglepalette.com/ | <img src="https://i.ytimg.com/vi/iDnW3E4G3dg/sddefault.jpg" alt="img" height="50"/> |
-| Mixxx                     | A free, open source DJ software.                 | Open Source   | https://mixxx.org/             | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Mixxx-logo.svg" alt="img" height="50"/> |
-| Reaper                    | Digital audio workstation with timecode genertor | Commercial    | https://www.reaper.fm/         | <img src="https://upload.wikimedia.org/wikipedia/it/c/cf/REAPER_logo.png" alt="img" height="50"/> |
+| Jingle Palette            | Instant jingle player.                           | Free          | https://www.jinglepalette.com/ | <img src="https://i.ytimg.com/vi/iDnW3E4G3dg/sddefault.jpg" alt="img" width="50" height="50"/> |
+| Mixxx                     | A free, open source DJ software.                 | Open Source   | https://mixxx.org/             | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Mixxx-logo.svg" alt="img" width="50" height="50"/> |
+| Reaper                    | Digital audio workstation with timecode genertor | Commercial    | https://www.reaper.fm/         | <img src="https://upload.wikimedia.org/wikipedia/it/c/cf/REAPER_logo.png" alt="img" width="50" height="50"/> |
 
 
 ## CUE Show Software
