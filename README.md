@@ -14,6 +14,7 @@ Hi, I'm Lorenzo Andreani (L30). This is my list containing references for Lights
 | rpidmx512 (OrangePi)      | Orange Pi DMX512 MIDI OSC Art-Net WS28xx....                    | Open Source   | https://www.orangepi-dmx.org/                    |   |              
 | WLED                      | Implementation of an ESP8266/ESP32 webserver to control NeoPixel| Open Source   | https://kno.wled.ge/                             | <img src="https://kno.wled.ge/assets/images/ui/headers/wled_logo_akemi.png" alt="img" width="auto" height="50px"/> |
 | Hyperion                  | Open source Bias or Ambient Lighting implementation.            | Open Source   | https://github.com/hyperion-project/hyperion.ng  | <img src="https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/doc/logo_light.png" alt="img" width="auto" height="50px"/> |
+| LedFx                     | Network based LED effect controller.                            | Open Source   | https://www.ledfx.app/                           | <img src="https://raw.githubusercontent.com/LedFx/LedFx/b8e68beaa215d4308c74d0c7d657556ac894b707/icons/banner.png" alt="img" width="auto" height="50px"/> |
 
 
 ## Video Software
