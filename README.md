@@ -11,7 +11,7 @@ List containing references for Lights, Video and Audio i have used or tested in 
 | FreeStyler                | Free lighting control software               | Free          | http://www.freestylerdmx.be/          |   |
 | xLights                   |                                              | Open Source   | https://xlights.org/                  | <img src="https://xlights.org/wp-content/uploads/2017/03/XLNC_Main_Page.jpg" alt="img" height="50"/> |
 | Jinx!                     | Led Matrix Control                           | Free          | http://www.live-leds.de/              |   |
-| rpidmx512 (OrangePi)      | Orange Pi DMX512 MIDI OSC Art-Net WS28xx.... | Open Source   | https://github.com/vanvught/rpidmx512 |   |              
+| rpidmx512 (OrangePi)      | Orange Pi DMX512 MIDI OSC Art-Net WS28xx.... | Open Source   | https://www.orangepi-dmx.org/         |   |              
 
 ## Video Software
 | Name                      | Description                                 | Type          | Link                      |   |
