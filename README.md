@@ -48,7 +48,8 @@ List containing references for Lights, Video and Audio i have used or tested in 
 | Tally Arbiter             | The flexible and customizable camera tally light system  | Open Source   | http://tallyarbiter.com/   | <img src="https://josephdadams.github.io/TallyArbiter/img/logo.png" alt="img" height="50"/> |
 
 ## Tools
-
-- MIDIMonster     Lightweight adapter tool for common show control protocols.
-- rtpMIDI         Network MIDI driver       https://www.tobias-erichsen.de/software/rtpmidi.html
-- MediaInfo           A convenient unified display of the most relevant technical and tag data for video and audio files.
+| Name                      | Description                                 | Type          | Link                      |   |
+| ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
+| MIDIMonster               | Lightweight adapter tool for common show control protocols.                                         | Open Source   |   ||
+| rtpMIDI                   | Network MIDI driver.                                                                                | Open Source   | https://www.tobias-erichsen.de/software/rtpmidi.html ||
+| MediaInfo                 | A convenient unified display of the most relevant technical and tag data for video and audio files. | Open Source   | ||
