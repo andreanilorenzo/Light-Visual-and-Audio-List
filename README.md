@@ -27,8 +27,9 @@ List containing references for Lights, Video and Audio i have used or tested in 
 
 
 ## Audio Software  
-
-- Jingle Palette      https://www.jinglepalette.com/
+| Name                      | Description                                 | Type          | Link                      |   |
+| ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
+| Jingle Palette            | Instant jingle player                       | Free          | https://www.jinglepalette.com/ | <img src="https://i.ytimg.com/vi/iDnW3E4G3dg/sddefault.jpg" alt="img" height="50"/> |
 - Mixxx               A free, open source DJ software.
 - Reaper              Digital audio workstation  https://www.reaper.fm/
 
@@ -41,7 +42,7 @@ List containing references for Lights, Video and Audio i have used or tested in 
 
 ## Broadcasting
 
-- Tally Arbiter       http://tallyarbiter.com/
+- Tally Arbiter       The flexible and customizable camera tally light system http://tallyarbiter.com/
 
 ## Other
 
