@@ -1,5 +1,5 @@
 # Light Visual and Audio List (Software or Hardware)
-List containing references for Lights, Video and Audio i have used or tested in live events or installations
+Hi, I'm Lorenzo Andreani. This is my list containing references for Lights, Video and Audio (Software and Hardware) that i have used or tested in live events or installations.
 
 
 ## Lighting Software
