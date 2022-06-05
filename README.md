@@ -3,7 +3,6 @@ List containing references for Lights, Video and Audio used by me during live ev
 
 
 ## Lighting Software
-| Name                      | Description                         |               | Link                      |
 | ------------------------- | ----------------------------------- | ------------- | ------------------------- |
 | Avolites Titan            |                                     | Commercial    |                           |
 | Daslight                  |                                     | Commercial    | https://www.daslight.com/ |
