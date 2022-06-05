@@ -31,9 +31,10 @@ List containing references for Lights, Video and Audio i have used or tested in 
 ## Audio Software  
 | Name                      | Description                                      | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------------ | ------------- | ------------------------- | - |
-| Jingle Palette            | Instant jingle player.                           | Free          | https://www.jinglepalette.com/ | <img src="https://i.ytimg.com/vi/iDnW3E4G3dg/sddefault.jpg" alt="img" width="50" height="50"/> |
-| Mixxx                     | A free, open source DJ software.                 | Open Source   | https://mixxx.org/             | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Mixxx-logo.svg" alt="img" width="50" height="50"/> |
-| Reaper                    | Digital audio workstation with timecode genertor | Commercial    | https://www.reaper.fm/         | <img src="https://upload.wikimedia.org/wikipedia/it/c/cf/REAPER_logo.png" alt="img" width="50" height="50"/> |
+| Jingle Palette            | Instant jingle player.                           | Free          | https://www.jinglepalette.com/        | <img src="https://i.ytimg.com/vi/iDnW3E4G3dg/sddefault.jpg" alt="img" width="50" height="50"/> |
+| Mixxx                     | A free, open source DJ software.                 | Open Source   | https://mixxx.org/                    | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Mixxx-logo.svg" alt="img" width="50" height="50"/> |
+| Reaper                    | Digital audio workstation with timecode genertor | Commercial    | https://www.reaper.fm/                | <img src="https://upload.wikimedia.org/wikipedia/it/c/cf/REAPER_logo.png" alt="img" width="50" height="50"/> |
+| Artnet Audioplayer        | Play audio and send Art-Net timecode             |  Open Source  | https://artnetaudioplayer.github.io/  |   |
 
 
 ## CUE Show Software
@@ -57,3 +58,4 @@ List containing references for Lights, Video and Audio i have used or tested in 
 | Mp3tag                    | A powerful and easy-to-use tool to edit metadata of audio files.                                      | Free        | https://www.mp3tag.de/en/index.html                   | <img src="https://www.mp3tag.de/images/logo.png" alt="img" width="50" height="50"/> |
 | TimeLord                  | Media Timecode player                                                                                 | Commercial  | https://timelord-mtc.com/                             | <img src="https://timelord-mtc.com/files/cache/ebe4e47969b629fd660cff58c57a14e3_f9.png" alt="img" height="50"/> |
 | Show Manager              | Java ArtNet and LTC timecode generator.                                                               | Open Source | https://github.com/MrExplode/ShowManager              |  |
+
