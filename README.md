@@ -3,7 +3,7 @@ List containing references for Lights, Video and Audio i have used or tested in 
 
 
 ## Lighting Software
-| Name                      | Description                         |               |  Link                     |   |
+| Name                      | Description                         | Type          |  Link                     |   |
 | ------------------------- | ----------------------------------- | ------------- | ------------------------- | - |
 | Avolites Titan            |                                     | Commercial    |                           | <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Avolites_Logo.svg" alt="img" height="50"/> |
 | Daslight                  |                                     | Commercial    | https://www.daslight.com/ | <img src="https://www.daslight.com/logo_daslight.png" alt="img" height="50"/> |
@@ -13,16 +13,16 @@ List containing references for Lights, Video and Audio i have used or tested in 
 
 
 ## Video Software
-| Name                      | Description                                 |               | Link                      |   |
+| Name                      | Description                                 | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
 | VLC                       | Simple, fast and powerful media player.     | Open Source   | https://www.videolan.org/ | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/VLC_icon.png" alt="img" height="50"/> |
 | Resolume Arena            | VJ Software and more.                       | Commercial    | https://resolume.com/     | <img src="https://resolume.com/gfx/arena7icon.svg" alt="img" height="50"/> |
 | vMix                      | Live video production software.             | Commercial    | https://www.vmix.com/     | <img src="https://www.vmix.com/images/2017/main/vmix-logo.png" alt="img" height="50"/> |
 
 ## Video Hardware
-| Name                      | Description                                 |               | Link                      |   |
+| Name                      | Description                                 | Type          | Link                      |   |
 | ------------------------- | ------------------------------------------- | ------------- | ------------------------- | - |
-| ATEM Mini                 | BlackMagic Design switcher multicam HDMI.   |               | https://www.blackmagicdesign.com/it/products/atemmini | <img src="https://upload.wikimedia.org/wikipedia/en/b/b8/Blackmagic_Design_logo.svg" alt="img" height="50"/> |
+| ATEM Mini                 | BlackMagic Design switcher multicam HDMI.   | Hardware      | https://www.blackmagicdesign.com/it/products/atemmini | <img src="https://upload.wikimedia.org/wikipedia/en/b/b8/Blackmagic_Design_logo.svg" alt="img" height="50"/> |
 
 
 ## Audio Software  
